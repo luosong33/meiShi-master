@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/library/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/library/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamio/src/androidTest/androidTest1.iml" filepath="$PROJECT_DIR$/vitamio/src/androidTest/androidTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/src/androidTest/androidTest2.iml" filepath="$PROJECT_DIR$/app/src/androidTest/androidTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialDesign/src/androidTest/androidTest3.iml" filepath="$PROJECT_DIR$/MaterialDesign/src/androidTest/androidTest3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/src/main/main.iml" filepath="$PROJECT_DIR$/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamio/src/main/main1.iml" filepath="$PROJECT_DIR$/vitamio/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialDesign/src/main/main2.iml" filepath="$PROJECT_DIR$/MaterialDesign/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/src/main/main3.iml" filepath="$PROJECT_DIR$/library/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/meiShi-master.iml" filepath="$PROJECT_DIR$/.idea/modules/meiShi-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamio/src/test/test.iml" filepath="$PROJECT_DIR$/vitamio/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/src/test/test1.iml" filepath="$PROJECT_DIR$/app/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/src/test/test2.iml" filepath="$PROJECT_DIR$/library/src/test/test2.iml" />
+    </modules>
+  </component>
+</project>
